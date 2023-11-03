@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-from string import ascii_uppercase
-print(ascii_uppercase)
-
+import string
+letter = uppercase_letters = string.ascii_uppercase
+print(letter)
