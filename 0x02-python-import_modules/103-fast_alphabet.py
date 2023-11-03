@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 import string
-letter = uppercase_letters = string.ascii_uppercase
+uppercase_letters = string.ascii_uppercase
+letter = ' '.join(uppercase_letters)
 print(letter)
