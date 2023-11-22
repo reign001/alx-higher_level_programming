@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-class square:
-    """ asquare is an object with four equal sides"""
+"""definesan empty class square"""
+class Square:
+    """ a square is an object with four equal sides"""
     pass
 
